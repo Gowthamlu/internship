@@ -1,0 +1,137 @@
+padding {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.border-style {
+    border-style: solid;
+    border-color: #4b6cc1;
+}
+
+.background {
+    background-color: white;
+
+}
+
+.heading {
+    color: white;
+}
+
+.Gowtham {
+    color: brown;
+}
+
+.paragraph {
+    color: grey;
+    font-size: 35px;
+}
+
+.button {
+    background-color: #4b6cc1;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.imgA {
+    margin-top: 29px;
+    height: 300px;
+    width: 250px;
+}
+
+
+
+.Aboutsectionbg {
+    background-color: lightgrey;
+    border-radius: 15px;
+
+}
+
+.Aboutheading {
+    font-weight: 600;
+}
+
+.heading {
+    color: #cced00;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.heading1 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.heading2 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bg {
+    background-color: white;
+
+}
+
+.card-skills {
+    background-color: lightblue;
+    border-radius: 10px;
+    height: 130px;
+    width: 150px;
+}
+
+.bg-skills {
+    background-color: white;
+    padding: 19px;
+}
+
+.img1 {
+    height: 70px;
+}
+
+.img {
+    height: 260px;
+    width: 250px;
+    margin: 5px;
+    border-radius: 40px;
+}
+
+.para {
+    color: #9aa5b1;
+}
+
+
+bg {
+
+    background-color: #0d2436;
+
+}
+
+.bg1 {
+
+    background-color: white;
+    padding: 5px;
+
+
+}
+
+.Contactsectionbg {
+
+    border-radius: 10px;
+}
+
+.imgc {
+    height: 70px;
+    width: 70px;
+    border-radius: 45px;
+}
+
+.heading {
+    color: #11bcbf;
+}
+
+.para {
+    color: #9aa5b1;
+}
